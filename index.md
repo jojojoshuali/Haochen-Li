@@ -1,29 +1,19 @@
 ## Welcome to my website
 
+Hi, there. My name is Haochen Li. You can also call me Josh. I am a international student from China who is junior at UCLA. My current research is about compressing the neural network to accelerate the inferencing process. 
+
+
 ### Here is my project page 
-https://github.com/jojojoshuali
+**You are free to look at all my current projects**: [project_page](https://github.com/jojojoshuali)
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```markdown
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
